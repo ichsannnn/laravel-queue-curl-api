@@ -5,7 +5,7 @@ Mengambil data melalui API dengan total data yang banyak, lalu dimasukan kedalam
 * Buka terminal linux
 * Jalankan perintah berikut untuk mendownload project
 ```bash
-$ git clone https://github.com/skadevz/laravel-vue-siswa-crud.git
+$ git clone https://github.com/skadevz/laravel-queue-curl-api.git
 ```
 * Masuk kedalam direktori project melalui terminal
 * Jalankan perintah berikut untuk persiapan awal, dan mendowload _package_ yang diperlukan
